@@ -16,6 +16,8 @@ Now I'm interested in:
 
 🏁 bash scripting
 
+🏁 advance my existing skills!
+
 ### Welcome to my gitpage, stranger!
 
 <!--
