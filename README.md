@@ -1,6 +1,6 @@
 ### Hi there 🐈
 
-*I'm Ian and I'm doing a little automation for Microsoft things like Azure, o365, AD, etc. I'm pretty lazy, so sometimes I just make specific thing not to do some simple routine manually.*
+*I'm Ian and I'm doing a little automation for Microsoft things like Azure, o365, AD, etc. I'm pretty lazy, so sometimes I just make specific things not to do simple routine manually.*
 
 Basically, my skills are:
 
