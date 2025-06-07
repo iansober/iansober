@@ -5,4 +5,4 @@ Methodologies enthusiast:
 - Readme-Driven Development
 - Diagrams-as-Code
 - Theory of Inventive Problem Solving
-- Cat welness development 🐈🐈🐈
+- Cat happiness development 🐈🐈🐈
